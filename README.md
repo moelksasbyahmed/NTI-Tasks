@@ -26,4 +26,5 @@ node Day01-Task/solve.js
 ## Task List
 
 - [Day01-Task](Day01-Task/)
+- [Day02-Task](DAY02-Task/)
 
