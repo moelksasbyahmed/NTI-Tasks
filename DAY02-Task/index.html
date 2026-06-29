@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Meal Finder</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1> Meal Finder</h1>
+            <p>Search for recipes by ingredient</p>
+        </header>
+
+        <div class="search-box">
+            <input type="text" id="searchInput" placeholder="e.g., chicken, garlic, tomato">
+            <button id="searchBtn">Search</button>
+        </div>
+
+        <div id="loading">Loading...</div>
+        <div id="error"></div>
+        <div id="resultsCount"></div>
+        <div id="mealGrid"></div>
+        <div id="noResults">
+            <p> No meals found</p>
+            <p>Try a different ingredient</p>
+        </div>
+    </div>
+
+    <script src="meal.js"></script>
+</body>
+</html>
