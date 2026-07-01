@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "year": 1960,
+    "price": 10.99,
+    "available": true
+  },
+  {
+    "id": 2,
+    "title": "1984",
+    "author": "George Orwell",
+    "year": 1949,
+    "price": 8.99,
+    "available": false
+  },
+  {
+    "id": 4,
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "year": 1951,
+    "price": 9.99,
+    "available": true
+  },
+  {
+    "id": 5,
+    "title": "the great calamity if my life",
+    "author": "me",
+    "year": 2026,
+    "price": 9.99,
+    "available": true
+  },
+  {
+    "id": 6,
+    "title": "why ",
+    "author": "me",
+    "year": 2023,
+    "price": 9.99,
+    "available": true
+  },
+  {
+    "id": 7,
+    "title": "meooow",
+    "author": "cat",
+    "year": 1960,
+    "price": 10.99,
+    "available": true
+  }
+]
