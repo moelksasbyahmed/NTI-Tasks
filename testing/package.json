@@ -1,0 +1,16 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "\"a simple testing for my thing \"",
+  "license": "ISC",
+  "author": "\"mohamed elkasaby",
+  "type": "commonjs",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^5.2.1",
+    "nodemon": "^3.1.14"
+  },
+  "scripts": {
+    "start": "nodemon index.js"
+  }
+}
